@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="LeftUp" type="id" />
+    <item name="RightUp" type="id" />
+    <item name="LeftBot" type="id" />
+    <item name="RightBot" type="id" />
+</resources>
